@@ -125,3 +125,5 @@ while True:
 
     else:
         print("\nInvalid Choice! Please Select 1 to 4.")
+st.title("Student Result Management System")
+st.write("Website is working!")
